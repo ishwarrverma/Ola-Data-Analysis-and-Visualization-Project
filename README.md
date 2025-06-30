@@ -53,19 +53,19 @@ The SQL file contains queries used to:
 ## 📊 Power BI Dashboard Screenshots
 
 ### 🔹 Page 1 – Overall Summary
-![Page 1](Screenshots/page1.png)
+![Page 1](Screenshots/Page1.png)
 
 ### 🔹 Page 2 – City-wise Ride Insights
-![Page 2](Screenshots/page2.png)
+![Page 2](Screenshots/Page2.png)
 
 ### 🔹 Page 3 – Revenue & Payment Types
-![Page 3](Screenshots/page3.png)
+![Page 3](Screenshots/Page3.png)
 
 ### 🔹 Page 4 – Cancellation Trends
-![Page 4](Screenshots/page4.png)
+![Page 4](Screenshots/Page4.png)
 
 ### 🔹 Page 5 – Customer Segmentation
-![Page 5](Screenshots/page5.png)
+![Page 5](Screenshots/Page5.png)
 
 > 📝 *You can open the `.pbix` file using Power BI Desktop to explore the interactive version.*
 
