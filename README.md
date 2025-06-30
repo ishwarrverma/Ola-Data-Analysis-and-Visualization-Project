@@ -26,10 +26,10 @@ This project is a complete data analysis and visualization case study for a ride
 ## 🗂️ Folder Structure
 
 📁 Ola-Data-Analysis-and-Visualization-Project
-├── 📄 ride_data.csv
-├── 📄 ride_data.xlsx
-├── 📄 queries.sql
-├── 📄 ola_dashboard.pbix
+├── 📄 Bookings-July.csv
+├── 📄 Bookings-July.xlsx
+├── 📄 Queries.sql
+├── 📄 Dashboard.pbix
 ├── 📁 Screenshots/
 │ ├── Page1.png
 │ ├── Page2.png
@@ -97,7 +97,7 @@ Hi, I'm **Ishwar Verma** – a Final Year BTech student passionate about product
 ## 📬 Contact
 
 📧 Email: [ishwarverma8989@gmail.com]  
-🔗 LinkedIn: [linkedin.com/in/ishwar-verrma](www.linkedin.com/in/ishwar-verrma)  
+🔗 LinkedIn: [ishwar-verrma](www.linkedin.com/in/ishwar-verrma)  
 📂 Portfolio: *Coming Soon*
 
 ---
