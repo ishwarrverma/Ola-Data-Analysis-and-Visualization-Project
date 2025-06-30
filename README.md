@@ -31,12 +31,12 @@ This project is a complete data analysis and visualization case study for a ride
 ├── 📄 queries.sql
 ├── 📄 ola_dashboard.pbix
 ├── 📁 Screenshots/
-│ ├── page1.png
-│ ├── page2.png
-│ ├── page3.png
-│ ├── page4.png
-│ └── page5.png
-├── 📄 analysis_questions.pdf
+│ ├── Page1.png
+│ ├── Page2.png
+│ ├── Page3.png
+│ ├── Page4.png
+│ └── Page5.png
+├── 📄 Objective-and-Requirements.pdf
 └── 📄 README.md
 ---
 
@@ -83,7 +83,7 @@ The SQL file contains queries used to:
 ## 📄 PDF: Analysis Requirements
 
 You can view the questions and business objectives from the original prompt here:  
-👉 [Objective and Requirements.pdf](Objective and Requirements.pdf)
+👉 [Objective and Requirements.pdf](/Objective-and-Requirements.pdf)
 
 ---
 
