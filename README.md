@@ -83,7 +83,7 @@ The SQL file contains queries used to:
 ## 📄 PDF: Analysis Requirements
 
 You can view the questions and business objectives from the original prompt here:  
-👉 [analysis_questions.pdf](analysis_questions.pdf)
+👉 [Objective and Requirements.pdf](Objective and Requirements.pdf)
 
 ---
 
